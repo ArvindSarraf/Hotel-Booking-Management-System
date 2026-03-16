@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
 
-public class SuiteRoom {
+public class SuiteRoom extends Room {
+
+
+    public SuiteRoom() {
+        super(3, 750, 5000.0);
+    }
 }
