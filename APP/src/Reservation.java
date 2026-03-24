@@ -1,4 +1,18 @@
 
+/**
+ * ===================================================
+ * CLASS - Reservation
+ * ===================================================
+ * Use Case 8: Booking History & Reporting
+ *
+ * Description:
+ * This class represents a booking request made by a guest.
+ *
+ * At this stage, a reservation only captures intent,
+ * not confirmation or room allocation.
+ *
+ * @version 8.0
+ */
 public class Reservation {
 
     // Name of the guest making the booking
