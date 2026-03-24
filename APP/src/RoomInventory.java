@@ -3,7 +3,7 @@
  * CLASS - RoomInventory
  * ============================================================
  *
- * Use Case 10: Booking Cancellation & Inventory Rollback
+ * Use Case 11: Concurrent Booking Simulation
  *
  * Description:
  * This class acts as the single source of truth
@@ -15,8 +15,8 @@
  * This avoids multiple sources of truth and
  * keeps responsibilities clearly separated.
  *
- * Author Nikhil0xSec
- * @version 10.0
+ * Author Arvind
+ * @version 11.0
  */
 import java.util.HashMap;
 import java.util.Map;
